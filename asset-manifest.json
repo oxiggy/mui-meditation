@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mui-meditation/static/css/main.00b69847.css",
+    "main.js": "/mui-meditation/static/js/main.cda03817.js",
+    "static/media/background.jpg": "/mui-meditation/static/media/background.485bed54822f4d086ee0.jpg",
+    "static/media/onboarding-meditation.jpg": "/mui-meditation/static/media/onboarding-meditation.943ee41bcec2cd8355fc.jpg",
+    "static/media/onboarding-relax.jpg": "/mui-meditation/static/media/onboarding-relax.2f536516b2bcd1fbfa2d.jpg",
+    "static/media/onboarding-balance.jpg": "/mui-meditation/static/media/onboarding-balance.775c6116e923851befc9.jpg",
+    "static/media/close.svg": "/mui-meditation/static/media/close.ba4f4a8d209da67b448e22384ce69687.svg",
+    "index.html": "/mui-meditation/index.html",
+    "static/media/back.svg": "/mui-meditation/static/media/back.f9e3c78ed2a21e01d23569369511d822.svg",
+    "static/media/like.svg": "/mui-meditation/static/media/like.09653919cb842fed326174f3e8da0e75.svg",
+    "main.00b69847.css.map": "/mui-meditation/static/css/main.00b69847.css.map",
+    "main.cda03817.js.map": "/mui-meditation/static/js/main.cda03817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b69847.css",
+    "static/js/main.cda03817.js"
+  ]
+}
